@@ -1,6 +1,15 @@
 # CS413_Minimalism
 CS413 Virtual Worlds Project One
 
-## Alt-Picnic Party
+==========================================================
+## Picnic Party
+
+Goal: 
+
+Directions:
+1. 
+2. 
+
+==========================================================
 
 
