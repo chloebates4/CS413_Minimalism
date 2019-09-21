@@ -8,7 +8,7 @@ Goal: You are a very hungry ant trying to collect as much fruit as you can!
 Challenges: If you are hit with a picnic basket or a shoe, then the game is over and you lose. 
 
 Directions:
-1. 
+1. Use the arrow keys to move. 
 2. 
 
 ==========================================================
